@@ -7,13 +7,6 @@ I have made a Discord Bot named Jeffery. This bot has been influenced by Geoffre
 functionalities such as showing memes, recommending various movies classified by genres, returning the updated market value of Bitcoin in dollars, returning jokes and giving 
 inspiration quotes. 
 
-Please refer to  [The readme from previous repo](https://github.com/Aniruddha18-SPD/Computer-II-Project/blob/main/instructions.txt)
-Please manually enter the products and their costs in the program. After or In between entering the products, you can type 'show' to view your cart.
-You can remove items in your cart by typing 'remove' and typing the index of the item you want to remove. For example: for first item type '1', for second type '2' and so on. 
-You can clear your whole cart by typing 'clear' 
-After you are done with adding the items, please type 'quit' to proceed to the checkout.
-Enter your VALID credit card number. After verification, your transcation will be complete.
+Please refer to  [instructions.txt](https://github.com/Aniruddha18-SPD/Computer-II-Project/blob/main/instructions.txt) for keywords to use the bot.
 
-Thank you for choosing to shop with us!
 
-- Straight Outta The Himalayas Team.
