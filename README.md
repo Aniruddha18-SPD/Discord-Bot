@@ -11,6 +11,8 @@ Please refer to  [instructions.txt](https://github.com/Aniruddha18-SPD/Computer-
 
 The code needs your Discord Bot Token to run successfully. Inorder to get your token, please follow [this guide.](https://www.writebots.com/discord-bot-token/) 
 
+An example of Token is [here](https://github.com/Aniruddha18-SPD/Computer-II-Project/blob/main/.env%20)
+
 Get your token and put it at the end of the [main.py](https://github.com/Aniruddha18-SPD/Computer-II-Project/blob/main/main.py)
 
 
