@@ -1,0 +1,16 @@
+The commands to use Jeffery are as follows:
+	$hello - a simple interaction with Jeffery
+	$bitcoin - to view the current value of Bitcoin in US dollars
+	$dadjokes - corny Dad Jokes
+	$meme - do i really have to explain this?
+	$inspire - inspirations to make you day brigther than it already is
+	
+	This Bot recommends the top 10 movies in various genres. The genres are:
+		$family
+		$drama
+		$musical
+		$thriller
+		$sports
+		$horror
+		$action
+		$adventure
