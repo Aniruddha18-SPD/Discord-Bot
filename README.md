@@ -7,7 +7,7 @@ I have made a Discord Bot named Jeffery. This bot has been influenced by Geoffre
 functionalities such as showing memes, recommending various movies classified by genres, returning the updated market value of Bitcoin in dollars, returning jokes and giving 
 inspiration quotes. 
 
-Please refer to  <a href="https://github.com/Aniruddha18-SPD/Com/puter-II-Project/blob/main/instructions.txt/>  
+Please refer to  <a href="https://github.com/Aniruddha18-SPD/Com/puter-II-Project/blob/main/instructions.txt"/>  
 Please manually enter the products and their costs in the program. After or In between entering the products, you can type 'show' to view your cart.
 You can remove items in your cart by typing 'remove' and typing the index of the item you want to remove. For example: for first item type '1', for second type '2' and so on. 
 You can clear your whole cart by typing 'clear' 
