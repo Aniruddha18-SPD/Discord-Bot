@@ -1,18 +1,6 @@
-#LINKS:
-# https://www.youtube.com/watch?v=SPTfmiYiuok
-# https://replit.com/@BeauCarnes/Encourage-Bot    (Replcode)
-# Jeffery's developer portal :
-# https://discord.com/developers/applications/904497768649879602/oauth2
-# https://www.geeksforgeeks.org/movie-recommendation-based-emotion-python/ (Movie Recommendation)
-	# -> https://www.skyfilabs.com/project-ideas/movie-recommendation-system-using-python			(Documentation to explain movie recommendation code which is ML)
-# https://github.com/mpgn/discord-e2e-encryption (Message Encryption)
-# https://www.postman.com/explore (library of api's)
-# https://github.com/zachwill/rottentomatoes (rotten tomatoes api)
-# https://www.postman.com/api-evangelist/workspace/videos/folder/35240-7e4436e9-1b60-4ea3-94aa-b2cbc295536e?ctx=documentation (move recommendation api)
-# https://openlibrary.org/api/books?bibkeys=ISBN:9780140328721&callback(books api)
 
 
-
+# DON'T FORGET TO PUT YOUR DISCORD TOKEN BEFORE YOU RUN THE FILE
 
 import discord
 import requests
@@ -286,7 +274,7 @@ async def on_message(message):
 		await message.channel.send(safe)
 
 keep_alive()
-client.run("OTA0NDk3NzY4NjQ5ODc5NjAy.YX8ZMA.xNeuwfUanEqHJvBMXhDzBy3iqbY")
+client.run("") #PUT YOUR TOKEN HERE (Guide to get the token is in the READ.ME file)
 # client.run(os.getenv('TOKEN'))
 
 
