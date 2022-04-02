@@ -1,5 +1,4 @@
-# Computer-II-Project
-Discord Bot using Python
+# Discord Bot using Python
 
 Hello! Welcome to my Computer Science II Final project! 
 
